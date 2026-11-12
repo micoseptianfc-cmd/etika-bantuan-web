@@ -1,10 +1,38 @@
-Copyright (c) 2026 badaruddin-arete. All rights reserved.
+Copyright (c) 2026 Miko Septian. All rights reserved.
 
-This source code is made publicly visible for reading and study only.
+PROPRIETARY LICENSE AGREEMENT
 
-No permission is granted to copy, modify, distribute, sublicense, or use this
-code, in whole or in part, for any other purpose without prior written
-permission from the copyright holder.
+NOTICE: This software and associated documentation files (the "Software") are the 
+exclusive intellectual property of Miko Septian, operating under the brand name MS.web. 
+Unauthorized copying, modification, distribution, or use of this Software, via any medium, 
+is strictly prohibited.
 
-The software is provided "as is", without warranty of any kind. It is an
-educational exploration and must not be used to make decisions about real people.
+1. GRANT OF LICENSE
+Subject to the terms of this Agreement, the author grants the designated client/user 
+a non-exclusive, non-transferable, limited right to install and utilize the Software 
+strictly for their internal retail business operations. No ownership rights are transferred.
+
+2. RESTRICTIONS
+You expressly agree NOT to:
+   a. Resell, sub-license, rent, lease, or commercially distribute the Software or any 
+      portion thereof to any third party.
+   b. Modify, translate, reverse engineer, decompile, disassemble, or create derivative 
+      works based upon the Software.
+   c. Remove, alter, or obscure any copyright notices, proprietary marks, or branding 
+      contained within the Software.
+   d. Grant unauthorized external access to the source code or utilize the Software 
+      for unauthorized multi-store deployment without prior explicit written consent from the author.
+
+3. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDER BE 
+LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE 
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+4. LIMITATION OF LIABILITY
+The author shall not be held responsible or liable for any direct, indirect, incidental, 
+special, exemplary, or consequential damages (including, but not limited to, loss of data, 
+financial loss, system failure, or business interruption) arising from the deployment, 
+operation, or failure of this Software in any environment.
